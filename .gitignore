@@ -1,5 +1,5 @@
-./output/*
-./inputs/*
-!./inputs/test.jpg
-!./inputs/test2.jpg
-!./inputs/test3.jpg
+output/*
+inputs/*
+!inputs/test.jpg
+!inputs/test2.jpg
+!inputs/test3.jpg
